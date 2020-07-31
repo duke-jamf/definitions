@@ -57,7 +57,7 @@ for utilities to assist with generating definitions from existing sources.
 All script files in a Definition should use this header:
 ```
 ##
-# Duke JAMF Package Workflow Definition
+# Duke JAMF Packaging Workflow Definition
 # https://github.com/duke-jamf/definitions
 ##
 
