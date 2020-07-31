@@ -1,0 +1,9 @@
+##
+# Duke JAMF Packaging Workflow Definition
+# https://github.com/duke-jamf/definitions
+##
+
+PKGNAME="OBS"
+PKGSLUG=obs
+PKGTYPE=cask
+PKGARGS=""

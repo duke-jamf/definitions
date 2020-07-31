@@ -1,0 +1,9 @@
+##
+# Duke JAMF Packaging Workflow Definition
+# https://github.com/duke-jamf/definitions
+##
+
+PKGNAME="Jupyter Notebook Viewer"
+PKGSLUG=jupyter-notebook-viewer
+PKGTYPE=cask
+PKGARGS=""

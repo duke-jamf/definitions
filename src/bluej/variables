@@ -1,0 +1,9 @@
+##
+# Duke JAMF Packaging Workflow Definition
+# https://github.com/duke-jamf/definitions
+##
+
+PKGNAME="BlueJ"
+PKGSLUG=bluej
+PKGTYPE=cask
+PKGARGS=""
