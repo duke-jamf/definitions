@@ -2,6 +2,13 @@
 
 Package definitions for JAMF packaging workflow
 
+## Quick Links
+
+* [Scripts Repo](https://github.com/duke-jamf/scripts)
+* [Brew Casks](https://formulae.brew.sh/cask/)
+* [Brew Formulae](https://formulae.brew.sh/formula/)
+* [pkgbuild Manual](https://www.unix.com/man-page/osx/1/pkgbuild/)
+
 ## Usage
 
 These definitions are designed to be used with [Duke JAMF Scripts](https://github.com/duke-jamf/scripts).
