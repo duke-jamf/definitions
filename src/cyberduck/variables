@@ -1,0 +1,9 @@
+##
+# Duke JAMF Package Workflow Definition
+# https://github.com/duke-jamf/definitions
+##
+
+PKGNAME="Cyberduck"
+PKGSLUG=cyberduck
+PKGTYPE=cask
+PKGARGS=""
